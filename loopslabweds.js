@@ -8,7 +8,7 @@ for (i = 50; i >= 20; i--) {
 
 //question 2
 
-for (i = 0; i > 0; i++) {
+for (i = 0; i >= 0; i++) {
 	if (i === 1000) {
 		console.log('uh oh.');
 	}
